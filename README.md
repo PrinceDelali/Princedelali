@@ -10,11 +10,11 @@
 
 💬 Ask me about React, Tailwind CSS, or building clean UI/UX for web apps
 
-📫 How to reach me: princedelali30@gmail.com and portfolio:portfolio-sigma-ashy-42.vercel.app
+📫 How to reach me: princedelali30@gmail.com
 
 😄 Pronouns: He/Him
 
-⚡ Fun fact: I love building apps that even non-tech users can easily use
+⚡ Fun fact: I love building websites that even non-tech users can easily use
 
 
 
